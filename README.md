@@ -1,4 +1,4 @@
-## Tesseract has been taken over, please use this repo and report the old one!
+## Tesseract has been taken over, please use this repo and report the old one! STABLE FILES WILL BE UPLOADED SOON!
 ![Tesseract](http://i.imgur.com/1ga0ATy.jpg)
 
 ## Tesseract Introduction
